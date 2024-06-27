@@ -504,3 +504,143 @@ position: absolute;
   top: 273%;
   left:15%;
 }
+#l3{
+  position: absolute;
+    top: 280%;
+    left: 13%;
+    color: #fff;
+    font-size: 16px;
+  }
+#Lorem3{
+    position: absolute;
+    top: 284%;
+    left: 11%;
+    color: #fff;
+    font-size: 13px;
+    width:150px ;
+  }
+#smile4{
+  position: absolute;
+  top: 273%;
+  left:72% ;
+}
+#l4{
+  position: absolute;
+    top: 280%;
+    left: 69%;
+    color: #fff;
+    font-size: 16px;
+  }
+  #Lorem4{
+    position: absolute;
+    top: 284%;
+    left: 67%;
+    color: #fff;
+    font-size: 13px;
+    width:150px ;
+  }
+  .four{
+    background-color: #fff;
+    height: 720px;
+  }
+  #faq{
+    color:#071629;
+    font-size: 60px;
+    position: absolute;
+    left: 41%;
+    top: 315%;
+  }
+  #ipsum1{
+    position: absolute;
+    top: 340%;
+    font-size: 14px;
+    left: 15%;
+    width: 23%;
+    color: #07162980;
+  }
+  #ip1{
+    position: absolute;
+    font-size: 16px;
+    left: 15%;
+    top: 334%;
+  }
+  #ipsum2{
+    position: absolute;
+    top: 340%;
+    font-size: 14px;
+    right: 15%;
+    width: 23%;
+    color: #07162980;
+  }
+  #ip2{
+    position: absolute;
+    font-size: 16px;
+    right: 28.6%;
+    top: 334%;
+  }
+  #ipsum3{
+    position: absolute;
+    top: 375%;
+    font-size: 14px;
+    left: 15%;
+    width: 23%;
+    color: #07162980;
+  }
+  #ip3{
+    position: absolute;
+    font-size: 16px;
+    left: 15%;
+    top: 369%;
+  }
+  #ipsum4{
+    position: absolute;
+    top: 375%;
+    font-size: 14px;
+    right: 15%;
+    width: 23%;
+    color: #07162980;
+  }
+  #ip4{
+    position: absolute;
+    font-size: 16px;
+    right: 28.6%;
+    top: 369%;
+  }
+  .five{
+    background-color: #071629;
+    height: 249px;
+  }
+  #logo2{
+    cursor: pointer;
+    left: 10%;
+    position: absolute;
+    top: 425%;
+  }
+  #smileschool{
+    color:#fff8;
+    font-size: 12px;
+    position: absolute;
+    top: 435%;
+    left: 45%;
+  }
+  #fb{
+    border-radius: 50%;
+    width: 28px;
+    top: 423%;
+    right: 25%;
+    position: absolute;
+  }
+  #tweet{
+    border-radius: 50%;
+    width: 28px;
+    top: 423%;
+    position: absolute;
+    right: 22%;
+  }
+  #ig{
+    border-radius: 40%;
+    width: 28px;
+    position: absolute;
+    top: 423%;
+    right: 19%;
+  }
