@@ -337,3 +337,170 @@ height: 470px;
   left: 29%;
   font-size: 16px;
 }
+.star4 img{
+  display: flex;
+  position: absolute;
+  left: 29%;
+  top: 250%;
+}
+.star4 p{
+  color: #C271FF;
+  display: flex;
+  position: absolute;
+  left: 41%;
+  top: 250%;
+}
+#diagonal1{
+  position: absolute;
+  left: 10%;
+  top: 237%;
+ color:#07162980;
+ width: 250px;
+ font-size: 14px;
+}
+#happys{
+  position: absolute;
+  top: 237%;
+  left: 67%;
+  color: #07162980;
+  width: 250px;
+  font-size: 14px;
+}
+#naturals{
+  position: absolute;
+  top: 237%;
+  left: 48%;
+  color: #07162980;
+  width: 250px;
+  font-size: 14px;
+}
+#sads{
+  position: absolute;
+  top: 237%;
+  left: 29%;
+  color: #07162980;
+  width: 250px;
+  font-size: 14px;
+}
+.pm img{
+  width: 30px;
+  position: absolute;
+  left: 9.8%;
+  top: 244%;
+}
+.pm h4{
+  color: #C271FF;
+  left: 12%;
+  top: 244%;
+  position: absolute;
+  font-size: 14px;
+}
+.hs img{
+  width: 30px;
+  position: absolute;
+  top: 244%;
+  left: 67%;
+}
+.hs h4{
+  color: #C271FF;
+  top: 244%;
+  position: absolute;
+  font-size: 14px;
+  left: 69.3%;
+}
+.ns img{
+  width: 30px;
+  position: absolute;
+  top: 244%;
+  left: 47.8%;
+}
+.ns h4{
+  color: #C271FF;
+  position: absolute;
+  font-size: 14px;
+  top: 244%;
+  left: 50%;
+}
+.ss img{
+  width: 30px;
+  position: absolute;
+  top: 244%;
+  left: 29%;
+}
+.ss h4{
+  color: #C271FF;
+  position: absolute;
+  font-size: 14px;
+  top: 244%;
+  left: 31.2%;
+}
+.three{
+  background-color:#071629;
+  height: 380px;
+}
+.three h2{
+  color: #fff;
+  position: absolute;
+  left: 40%;
+  font-size: 28px;
+  top: 264%;
+}
+#mybutton{
+padding: 10px 15px;
+margin: 10px 10px;
+border-radius: 50px;
+width: 162px;
+height: 44px;
+font-size: 11px;
+position: absolute;
+top: 295%;
+text-align: center;
+right: 47%;
+color: #fff;
+background-color: #C271FF;
+}
+#smile1{
+  position: absolute;
+  top: 273%;
+  left: 34%;
+}
+#l1{
+  position: absolute;
+  top: 280%;
+  left: 33%;
+  color: #fff;
+  font-size: 16px;
+}
+#Lorem1{
+  position: absolute;
+  top: 284%;
+  left: 31%;
+  color: #fff;
+  font-size: 13px;
+  width:150px ;
+}
+#smile2{
+  position: absolute;
+  top: 273%;
+  left: 54%;
+}
+#l2{
+position: absolute;
+  top: 280%;
+  left: 52%;
+  color: #fff;
+  font-size: 16px;
+}
+#Lorem2{
+  position: absolute;
+  top: 284%;
+  left: 50%;
+  color: #fff;
+  font-size: 13px;
+  width:150px ;
+}
+#smile3{
+  position: absolute;
+  top: 273%;
+  left:15%;
+}
