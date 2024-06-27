@@ -1,0 +1,171 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+@font-face {
+  font-family:'Source Sans Pro';
+  src: url('fonts/SourceSansPro-Bold.otf')format('opentype');
+  src: url('fonts/SourceSansPro-Regular.otf')format('opentype');
+  src:url('fonts/SourceSansPro-Semibold.otf')format('opentype');
+  src: url('fonts/SourceSansPro-ExtraLight.otf')format('opentype');
+  src: url('fonts/SourceSansPro-It.otf')format('opentype');
+  font-weight: lighter;
+}
+header{
+  width: 100%;
+  height: 145vh;
+  background-color:  #071629;
+}
+
+.banner{
+  width: 100%;
+  height: 130vh;
+  background-image: url(Object.png);
+}
+.navbar{
+  width: 85%;
+  margin: auto;
+  padding: 35px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.logo{
+  width: 120px;
+  cursor: pointer;
+}
+.navbar ul li{
+  font-family:'Source Sans Pro',Arial, sans-serif ;
+  list-style: none;
+  display: inline-block;
+  margin: 0 30px;
+}
+.navbar ul li a{
+  color: #fff;
+  font-family:'Source Sans Pro', Arial, sans-serif ;
+  font-size: 12px;
+}
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
+.content{
+  width: 100%;
+  position: absolute;
+  top: 40%;
+  transform: translateY(-44%);
+  text-align: center;
+  color: #fff;
+  font-family: 'Source Sans Pro';
+}
+.content h1{
+  font-size: 120px;
+  transform: translateX(-3%);
+  font-family: 'Source Sans Pro';
+}
+.content span{
+  font-size: 16px;
+  margin:0 25px;
+  align-items: center;
+  justify-content: space-between;
+}
+button{
+  padding: 10px 15px;
+  margin: 10px 10px;
+  border-radius: 50px;
+  width: 162px;
+  height: 44px;
+  font-size: 11px;
+  position: absolute;
+  top: 55%;
+  text-align: center;
+  right: 46%;
+  color: #fff;
+  background-color: #C271FF;
+}
+.Learn h2{
+  width: 280px;
+  position: absolute;
+  top: 88%;
+  text-align: center;
+  color: #fff;
+  font-family: 'Source Sans Pro';
+  right:44% ;
+  font-size: 32px;
+}
+.highlight{
+  color: #C271FF;
+}
+.Phillip img{
+  position: absolute;
+  top: 102%;
+  left: 15%;
+}
+.Phillip h3{
+  position: absolute;
+  top: 124%;
+  left:15%;
+  color: #fff;
+}
+ #smile{
+  position: absolute;
+  color: #fff;
+  top: 127%;
+  left: 14.3%;
+  font-size: 16px;
+}
+#year{
+  position: absolute;
+  color: #fff;
+  top: 130%;
+  left: 16.5%;
+  font-size: 16px;
+}
+.Nannie img{
+  position: absolute;
+  top: 102%;
+  left:33%;
+}
+.Nannie h3{
+  position: absolute;
+  top: 124%;
+  left: 33%;
+  color: #fff;
+}
+#best{
+  position: absolute;
+  top:127%;
+  left: 33.5%;
+  color: #fff;
+}
+#yr{
+  position: absolute;
+  top: 130%;
+  left: 36%;
+  color: #fff;
+}
+.Bruce img{
+  position: absolute;
+  top: 102%;
+  left:52%;
+  border-radius: 50%;
+}
+.Bruce h3{
+  position: absolute;
+  top: 124%;
+  left: 54%;
+  color: #fff;
+}
+#friend{
+  position: absolute;
+  top:127%;
+  left: 53%;
+  color: #fff
+}
+#live{
+  position: absolute;
+  top:130%;
+  left: 53%;
+  color: #fff
+}
