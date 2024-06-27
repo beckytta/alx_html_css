@@ -11,53 +11,23 @@
   src: url('fonts/SourceSansPro-It.otf')format('opentype');
   font-weight: lighter;
 }
-header{
-  width: 100%;
-  height: 145vh;
-  background-color:  #071629;
-}
+header{width: 100%;height: 145vh;background-color:  #071629;}
+.banner{ width: 100%;height: 130vh;background-image: url(Object.png);}
+.navbar{width: 85%;margin: auto;padding: 35px 0;display: flex;align-items: center;justify-content: space-between;}
+.logo{width: 120px;cursor: pointer;}
 
-.banner{
-  width: 100%;
-  height: 130vh;
-  background-image: url(Object.png);
-}
-.navbar{
-  width: 85%;
-  margin: auto;
-  padding: 35px 0;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-.logo{
-  width: 120px;
-  cursor: pointer;
-}
-.navbar ul li{
-  font-family:'Source Sans Pro',Arial, sans-serif ;
-  list-style: none;
-  display: inline-block;
-  margin: 0 30px;
-}
-.navbar ul li a{
-  color: #fff;
-  font-family:'Source Sans Pro', Arial, sans-serif ;
-  font-size: 12px;
+.navbar ul li{font-family:'Source Sans Pro',Arial, sans-serif ;list-style: none;display: inline-block;
+  margin: 0 30px;}
+
+.navbar ul li a{color: #fff;font-family:'Source Sans Pro', Arial, sans-serif ;font-size: 12px;
 }
 a:link { text-decoration: none; }
 a:visited { text-decoration: none; }
 a:hover { text-decoration: none; }
 a:active { text-decoration: none; }
 
-.content{
-  width: 100%;
-  position: absolute;
-  top: 40%;
-  transform: translateY(-44%);
-  text-align: center;
-  color: #fff;
-  font-family: 'Source Sans Pro';
+.content{width: 100%;position: absolute;top: 40%;transform: translateY(-44%);text-align: center;
+  color: #fff;font-family: 'Source Sans Pro';
 }
 .content h1{
   font-size: 120px;
