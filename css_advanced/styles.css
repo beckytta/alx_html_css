@@ -169,3 +169,171 @@ button{
   left: 53%;
   color: #fff
 }
+.Henry img{
+  position: absolute;
+  top: 102%;
+  left:71%;
+}
+.Henry h3{
+  position: absolute;
+  top: 124%;
+  left: 73%;
+  color: #fff;
+}
+#smiles{
+  position: absolute;
+  top: 127%;
+  left: 72%;
+  color: #fff;
+}
+#winner{
+  position: absolute;
+  top: 130%;
+  left: 74.5%;
+  color: #fff;
+}
+.one{
+  background-color: #C271FF;
+  height: 370px;
+}
+.one img{
+  position: absolute;
+  left: 15%;
+  top: 160%;
+}
+.one blockquote{
+  position: absolute;
+  color: #fff;
+  font-size: 22px;
+  left: 30%;
+  top: 163%;
+  width: 49%;
+}
+.one h3{
+  position: absolute;
+  color: #fff;
+  font-size: 22px;
+  left: 30%;
+  top:173%;
+}
+.one p{
+  position: absolute;
+  color: #fff;
+  font-size: 22px;
+  left: 30%;
+  top: 177.5%;
+}
+.two{
+background-color: #fff;
+height: 470px;
+}
+.two h2{
+  position: absolute;
+  left: 38%;
+  top: 199%;
+  font-size: 32px;
+}
+#Diagonal{
+  position: absolute;
+  top: 210%;
+  left:9%;
+}
+#diagonall{
+  position: absolute;
+  top: 216%;
+  left: 15%;
+}
+
+#sad{
+  position: absolute;
+  top:210%;
+  left:28%;
+}
+#sadd{
+  top: 216%;
+  position: absolute;
+  left: 34.5%;
+}
+#natural{
+  position: absolute;
+  top: 210%;
+  left: 47%;
+}
+#naturall{
+  position: absolute;
+  top: 216%;
+  left: 53%;
+}
+#happy{
+  position: absolute;
+  top: 210%;
+  left:66%;
+}
+#happyy{
+  position: absolute;
+  top: 216%;
+  left: 72.5%;
+}
+#diagonal{
+  position: absolute;
+  left: 10%;
+  top: 233%;
+  font-size: 16px;
+}
+.star1 img{
+  display: flex;
+  position: absolute;
+  left: 10%;
+  top: 250%;
+}
+.star1 p{
+  color: #C271FF;
+  display: flex;
+  position: absolute;
+  left: 22%;
+  top: 250%;
+}
+#Happy{
+  position: absolute;
+  left: 67%;
+  top: 233%;
+  font-size: 16px;
+}
+.star2 img{
+  display: flex;
+  position: absolute;
+  left: 67.5%;
+  top: 250%;
+}
+.star2 p{
+  color: #C271FF;
+  display: flex;
+  position: absolute;
+  left: 80%;
+  top: 250%;
+}
+#Natural{
+  position: absolute;
+  top: 233%;
+  left: 48%;
+  font-size: 16px;
+}
+.star3 img{
+  display: flex;
+  position: absolute;
+  left: 48%;
+  top: 250%;
+}
+.star3 p{
+  color: #C271FF;
+  display: flex;
+  position: absolute;
+  left: 60%;
+  top: 250%;
+}
+#Sad{
+  position: absolute;
+  top: 233%;
+  left: 29%;
+  font-size: 16px;
+}
