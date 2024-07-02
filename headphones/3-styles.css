@@ -35,8 +35,7 @@ body {
 
 header {
   background: url('images/headphones_hero_1.jpg') no-repeat center/cover;
-  color: var(--white);height: 130vh;
-
+  color: var(--white);
 }
 
 nav {
@@ -300,4 +299,3 @@ nav ul li a:hover, nav ul li a:active {
     width: 250px;
     margin: 0 auto;
   }
-}
