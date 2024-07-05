@@ -122,3 +122,14 @@ nav ul li a:hover, nav ul li a:active {
 .cta-button:hover, .cta-button:active {
   opacity: 0.9;
 }
+/* ---------------------------------------- RESPONSIVE DESIGN CODES --------------------------------------------- */
+
+@media screen and (max-width: 480px) {
+  nav ul{
+    display: none;
+  }
+
+  #menu-toggle{
+    display: block;
+  }
+}
